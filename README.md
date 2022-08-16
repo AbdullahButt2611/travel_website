@@ -20,7 +20,8 @@ Following are some of the new features and learning encountered while creating t
 ## Resources
 <br>
 Follwing resources have been used in maing this project:
-- 
+- [Google Fonts](https://fonts.google.com/) are used to import the **Railway** Font family into the project.
+- [Remix Icons](https://remixicon.com/) are used to import icons into the website.
 <br><br>
 
 ## Demo
@@ -35,7 +36,9 @@ Follwing resources have been used in maing this project:
 ## Technology Stack
 <br>
 Follwing technologies have been used at the core of this application to make it stand in the market place:
-- 
+- HTML
+- CSS
+- JavaScript
 <br><br>
 
 ## Advancement
