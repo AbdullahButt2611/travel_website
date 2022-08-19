@@ -14,12 +14,14 @@
 ## Features
 <br>
 Following are some of the new features and learning encountered while creating this amazing project:
--
+
+- The whole theme of this website depends on a single color. If one color is changed then the whole theme will automatically change it's appearance. 
 <br><br>
 
 ## Resources
 <br>
 Follwing resources have been used in maing this project:
+
 - [Google Fonts](https://fonts.google.com/) are used to import the **Railway** Font family into the project.
 - [Remix Icons](https://remixicon.com/) are used to import icons into the website.
 <br><br>
@@ -36,6 +38,7 @@ Follwing resources have been used in maing this project:
 ## Technology Stack
 <br>
 Follwing technologies have been used at the core of this application to make it stand in the market place:
+
 - HTML
 - CSS
 - JavaScript
