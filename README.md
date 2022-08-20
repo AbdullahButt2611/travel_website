@@ -7,10 +7,6 @@
 
 <br><br>
 
-## Description
-
-<br><br>
-
 ## Features
 <br>
 Following are some of the new features and learning encountered while creating this amazing project:
@@ -33,6 +29,9 @@ Follwing resources have been used in maing this project:
 <br><br>
 
 ## GUI
+
+![Demo](demo.png)
+
 <br><br>
 
 ## Technology Stack
@@ -42,10 +41,10 @@ Follwing technologies have been used at the core of this application to make it 
 - HTML
 - CSS
 - JavaScript
+- Swiper JS
+- Scroll Reveal
 <br><br>
 
-## Advancement
-<br><br>
 
 ## Deployment Details
 The website is deployed using the free hosting provided by **Vercel**
